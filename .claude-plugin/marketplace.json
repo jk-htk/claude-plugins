@@ -1,0 +1,11 @@
+{
+  "name": "jk-htk",
+  "owner": { "name": "jk-htk" },
+  "plugins": [
+    {
+      "name": "session-location",
+      "source": "./plugins/session-location",
+      "description": "Shows whether the session runs in the cloud or locally"
+    }
+  ]
+}
